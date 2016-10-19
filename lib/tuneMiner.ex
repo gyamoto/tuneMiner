@@ -1,0 +1,2 @@
+defmodule TuneMiner do
+end
